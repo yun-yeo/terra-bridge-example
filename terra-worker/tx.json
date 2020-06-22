@@ -1,0 +1,1 @@
+{"type":"core/StdTx","value":{"fee":{"amount":[{"amount":"1500","denom":"uluna"}],"gas":"100000"},"memo":"Sent from Terra<>Solana bridge","msg":[{"type":"bank/MsgSend","value":{"amount":[{"amount":"10","denom":"uusd"}],"from_address":"terra15d57k300ewhrm9jcqa9fv6hfmfx829tfjyykl0","to_address":"terra1wg2mlrxdmnnkkykgqg4znky86nyrtc45q336yv"}}],"signatures":[]}}
